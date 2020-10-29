@@ -1,3 +1,3 @@
-<img src= <img src="Media/CircuitPythonLCD.jpg" width="300">
+<img src="Media/CircuitPythonLCD.jpg" width="300">
 
 
