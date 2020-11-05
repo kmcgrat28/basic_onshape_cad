@@ -8,4 +8,8 @@ This assignment was for us to get used to designing in Onshape. We recreated the
 ### Mount
 <img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.53.46%20PM.png width="300">
 
+### Fork
 <img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.54.21%20PM.png width="300">
+ 
+ ### Wheel
+<img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.55.49%20PM.png width="300">
