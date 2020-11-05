@@ -13,3 +13,9 @@ This assignment was for us to get used to designing in Onshape. We recreated the
  
  ### Wheel
 <img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.55.49%20PM.png width="300">
+
+### Axel
+<img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.56.29%20PM.png width="300">
+
+### Washer
+<img src= https://github.com/kmcgrat28/basic_onshape_cad/blob/main/images/Screen%20Shot%202020-11-05%20at%201.57.04%20PM.png width="300">
